@@ -1,0 +1,23 @@
+name: 'YAJUU-SOU!'
+favicon: null
+layout_spectrum: 0.8205248273443431
+typography_spectrum: 0.731976121198386
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8634093238506466
+  lightness: 0.8653346025384963
+  saturation: 0.8944026604294777
+  rhythmicContrast: 0.705826855963096
+purpose: []

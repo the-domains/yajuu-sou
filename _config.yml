@@ -1,7 +1,7 @@
 name: 'YAJUU-SOU!'
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.731976121198386
+typography_spectrum: 0.72022
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#e9e7e1'
   brandStrength: 1
   lightness: 0.8653346025384963
-  saturation: 0.8944026604294777
-  rhythmicContrast: 0.705826855963096
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
